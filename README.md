@@ -5,7 +5,7 @@ We pride ourselves on achieving the best possible outcomes and quality of care â
 
 ## Personal Care
 ![personal](https://user-images.githubusercontent.com/77752302/147010724-965b5b86-8c0c-4f84-8996-051137be4a45.jpg)
-```
+```markdown
 Klarus Personal Care now offers the highest quality, clinical care on a per visit basis for those individuals that do not need or qualify for Medicare covered home health.
 ```
 ## Welcome to GitHub Pages
