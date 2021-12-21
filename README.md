@@ -1,5 +1,13 @@
-## New Header!
+## Klarus Personal Care
+![klarus_main](https://user-images.githubusercontent.com/77752302/147010289-8d9537cb-0c15-4ddf-aa6e-c84f660e1dbe.png)
 
+We pride ourselves on achieving the best possible outcomes and quality of care – whether that involves home health for managing chronic conditions or injury or illness, hospice care to provide end-of-life care and comfort or private care aimed at helping people remain safe and independent at home.
+
+## Personal Care
+![personal](https://user-images.githubusercontent.com/77752302/147010724-965b5b86-8c0c-4f84-8996-051137be4a45.jpg)
+```
+Klarus Personal Care now offers the highest quality, clinical care on a per visit basis for those individuals that do not need or qualify for Medicare covered home health.
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KlarusPersonalCare/klaruspersonalcare.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -38,4 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-![klarus_main](https://user-images.githubusercontent.com/77752302/147010289-8d9537cb-0c15-4ddf-aa6e-c84f660e1dbe.png)
+
