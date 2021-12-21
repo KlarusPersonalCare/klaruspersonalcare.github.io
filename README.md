@@ -1,13 +1,19 @@
+[What We Do](https://klaruspersonalcare.com/personal-care/)
 ## Klarus Personal Care
 ![klarus_main](https://user-images.githubusercontent.com/77752302/147010289-8d9537cb-0c15-4ddf-aa6e-c84f660e1dbe.png)
 
 We pride ourselves on achieving the best possible outcomes and quality of care – whether that involves home health for managing chronic conditions or injury or illness, hospice care to provide end-of-life care and comfort or private care aimed at helping people remain safe and independent at home.
 
 ## Personal Care
-![personal](https://user-images.githubusercontent.com/77752302/147010724-965b5b86-8c0c-4f84-8996-051137be4a45.jpg)
 
 Klarus Personal Care now offers the highest quality, clinical care on a per visit basis for those individuals that do not need or qualify for Medicare covered home health.
-## Welcome to GitHub Pages
+
+![personal](https://user-images.githubusercontent.com/77752302/147010724-965b5b86-8c0c-4f84-8996-051137be4a45.jpg)
+
+Klarus derives from the Latin word “clàrus”, meaning “clear, bright, respected, upstanding one”. We continually work to think outside-the-box, invent better ways to provide care, and serve as a resource to our patients, families and referral sources.
+
+## The Klarus Difference
+
 ![house](https://user-images.githubusercontent.com/77752302/147011052-84bf7cb0-3341-4f91-a2b2-cb97d777897c.png)
 
 What sets us apart is our extraordinary team of professionals who are compassionate, dedicated and mindful of the impact they have on the lives of our patients.
