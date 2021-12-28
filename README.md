@@ -1,5 +1,5 @@
 ### Welcome to Klarus!
-MENU: [What We Do](https://klaruspersonalcare.com/personal-care/)
+MENU: [What We Do](https://klaruspersonalcare.com/personal-care/) [Facebook](https://www.facebook.com/KlarusPersonalCare/)
 ## Klarus Personal Care
 ![klarus_main](https://user-images.githubusercontent.com/77752302/147010289-8d9537cb-0c15-4ddf-aa6e-c84f660e1dbe.png)
 
